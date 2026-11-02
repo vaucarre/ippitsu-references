@@ -91,3 +91,17 @@ Seules la couleur d'accent (celle du monde), le décor et le personnage changent
   - yuki_onna : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/monde4_montagnes_de_neige/decoupes/yuki_onna.jpg
   - yuki_warashi : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/monde4_montagnes_de_neige/decoupes/yuki_warashi.jpg
   - yukionna : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/monde4_montagnes_de_neige/decoupes/yukionna.jpg
+
+## Décor du monde 1 (Archipel)
+- Prompt type : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/decor_monde1/PROMPT.md
+- 01_vue_ensemble : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/decor_monde1/01_vue_ensemble.jpg
+- 02_salles : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/decor_monde1/02_salles.jpg
+- 03_sanctuaire_boss : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/decor_monde1/03_sanctuaire_boss.jpg
+- 04_objets_decor : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/decor_monde1/04_objets_decor.jpg
+- 05_sol_eau_bords : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/decor_monde1/05_sol_eau_bords.jpg
+- reference_v1_technique : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/decor_monde1/reference_v1_technique.png
+- reference_v2_ambiance : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/decor_monde1/reference_v2_ambiance.png
+- bestiaire_monde1 : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/decor_monde1/references_style/bestiaire_monde1.jpg
+- fiche_ashigaru : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/decor_monde1/references_style/fiche_ashigaru.jpg
+- fiche_heros : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/decor_monde1/references_style/fiche_heros.jpg
+- mobs_en_jeu_monde1 : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/decor_monde1/references_style/mobs_en_jeu_monde1.jpg
