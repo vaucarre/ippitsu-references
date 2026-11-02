@@ -2,7 +2,20 @@
 
 Images de référence uniquement, pour la génération dans ChatGPT. Aucun code du jeu.
 
-## Modèle de mise en page (fiches du monde 1)
+## Modèle de référence pour toutes les fiches
+
+https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/modele_reference.png
+
+Fiche de l'Ashigaru (monde 1). Chaque fiche générée reprend exactement cette mise en page et ce style :
+- bandeau du monde en haut à gauche, portrait, nom, rôle et PV ;
+- grande pose dans le décor du monde à gauche ;
+- 5 vues en haut (face, 3/4 face, profil, dos, 3/4 dos) sur un anneau lumineux ;
+- 8 gros plans au centre ;
+- panneau fil de fer avec tris, verts, texture et 3 vignettes de textures à droite.
+
+Seules la couleur d'accent (celle du monde), le décor et le personnage changent.
+
+## Autres fiches du monde 1
 - artificier : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/modele_monde1/artificier.png
 - ashigaru : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/modele_monde1/ashigaru.png
 - ashigaru_noye : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/modele_monde1/ashigaru_noye.png
