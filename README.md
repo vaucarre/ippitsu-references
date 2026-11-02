@@ -93,6 +93,10 @@ Seules la couleur d'accent (celle du monde), le décor et le personnage changent
   - yukionna : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/monde4_montagnes_de_neige/decoupes/yukionna.jpg
 
 ## Décor du monde 1 (Archipel)
+
+**Référence d'ambiance retenue (validée par Victor) : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/decor_monde1/reference_v2_ambiance.png**
+Quai de planches chaudes, échoppes et lanternes, cerisiers, mer bleue à vagues d'estampe, sanctuaire au torii, arènes du gardien et du boss. Toute image du décor du monde 1 suit cette ambiance (les ennemis qui y figurent, à kasa roses, ne sont pas une référence).
+
 - Prompt type : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/decor_monde1/PROMPT.md
 - 01_vue_ensemble : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/decor_monde1/01_vue_ensemble.jpg
 - 02_salles : https://raw.githubusercontent.com/vaucarre/ippitsu-references/main/decor_monde1/02_salles.jpg
